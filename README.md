@@ -19,3 +19,11 @@ Linux | Jenkins | Docker | Kubernetes | Prometheus | Grafana
 ![Stats](https://github-readme-stats.vercel.app/api?username=RahulJaiswal-01&show_icons=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulJaiswal-01&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RahulJaiswal-01)
+
+
+![](https://komarev.com/ghpvc/?username=RahulJaiswal-01)
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RahulJaiswal-01)
