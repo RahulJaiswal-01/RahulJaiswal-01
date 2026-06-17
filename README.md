@@ -26,4 +26,4 @@ Linux | Jenkins | Docker | Kubernetes | Prometheus | Grafana
 ![](https://komarev.com/ghpvc/?username=RahulJaiswal-01)
 
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=RahulJaiswal-01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RahulJaiswal-01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
